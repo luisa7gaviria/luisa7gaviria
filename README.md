@@ -3,7 +3,6 @@
 ### class *LuisaGaviria* {  
 ####  constructor(Profile) {  
 ####    this.age = 19;  
-####    this.country = Colombia🪗;  
 ####    this.mail: lorenitaa889@gmail.com  
 ####    this.hobbies = {  
 ####    -_chess_: Queen is my favorite piece,  
