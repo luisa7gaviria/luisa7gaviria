@@ -1,4 +1,4 @@
-======== 🐈‍⬛  ========
+============ 🐈‍⬛ 
 
 ### class *LuisaGaviria* {  
 ####  constructor(Profile) {  
