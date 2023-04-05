@@ -7,12 +7,9 @@
 ####    this.mail: lorenitaa889@gmail.com  
 ####    this.hobbies = {  
 ####    -_chess_: Queen is my favorite piece,  
-####    -_manga_: One piece is my fav ✨,  
-####    -_coding_: I like Javascript a lot and CSS,  
+####    -_manga_: One piece is my fav ✨,    
 ####    -_videogames_: League of Legends, Minecraft & Valorant 🎮,  
-####    -_sunsets_: I love watching them 🌆 
 ####   }  
-####    this.tech_skills: HTML, CSS, JS, NODEJS, FIGMA, GITHUB;
 ####    this.dislikes: Spiders, winter and errors 😵;  
 ####    this.loves: Cats, learning, comedy movies, games;   
 ####    this.fact_about_me: I studied cooking in 2021;  
