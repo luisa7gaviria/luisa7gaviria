@@ -4,11 +4,7 @@
 ####  constructor(Profile) {  
 ####    this.age = 19;  
 ####    this.mail: lorenitaa889@gmail.com  
-####    this.hobbies = {  
-####    -_chess_: Queen is my favorite piece,  
-####    -_manga_: One piece is my fav ✨,    
-####    -_videogames_: League of Legends, Minecraft & Valorant 🎮,  
-####   }    
+####    this.hobbies = 'chess ♟️ , manga 🥷, videogames 🎮'  
 ####    this.fact_about_me: I studied cooking in 2021;  
 ####    this.english: B1 thanks to music 🎵;
 ####    }  
