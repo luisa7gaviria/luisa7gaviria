@@ -1,6 +1,6 @@
 =============== 🐈‍⬛ 
 ### 💫 About Me:
-An apassionated Front End Dev, 19 yrs <br>Hobbies: 'chess ♟️ , manga 🥷, videogames 🎮'  <br>Fact: I studied cooking in 2021-22<br>English: B1 thanks to music 🎵<br>Contact: lorenitaa889@gmail.com
+An apassionated Front End Developer, i'm 19 yrs <br> Hobbies: 'chess ♟️ , manga 🥷, videogames 🎮'  <br> Fact: I studied cooking in 2021-22<br> English: B1 thanks to music 🎵<br> Contact: lorenitaa889@gmail.com
 
 
 ### 🌐 Socials:
@@ -11,4 +11,3 @@ An apassionated Front End Dev, 19 yrs <br>Hobbies: 'chess ♟️ , manga 🥷, v
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=luisa7gaviria&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luisa7gaviria&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luisa7gaviria&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
