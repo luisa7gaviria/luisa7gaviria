@@ -1,6 +1,6 @@
  
 ### 💫 About Me:
-An apassionated Front End Developer, I'm 19 yrs <br> Hobbies: 'chess ♟️ , manga 🥷, videogames 🎮'  <br> Fact: I studied cooking in 2021-22<br> English: C1 thanks to music 🎵<br> Contact: lorenitaa889@gmail.com <br> I'm currently learning: Java :)
+An apassionated Front End Developer, I'm 19 yrs <br> Hobbies: 'chess ♟️ , manga 🥷, videogames 🎮'  <br> Fact: I studied cooking in 2021-22<br> English: C1 thanks to music 🎵<br> Contact: lorenitaa889@gmail.com <br> I'm currently learning: Java & Amazon Web Services :)
 
 
 #### 🌐 Socials:
