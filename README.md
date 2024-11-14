@@ -2,7 +2,7 @@
 ### 💫 About Me:
 An apassionated Front End Developer, I am constantly learning and I
 hope to find a team where we can make an impact through solutions, new products, and projects
-where I can contribute! <br> Hobbies: 'chess ♟️ , manga 🥷, videogames 🎮',  learning  <br> Fact: I studied cooking in 2021-22<br> English: C1, still improving my eng skills🎵<br> Contact: lorenitaa889@gmail.com <br> I'm currently learning: Java & Amazon Web Services :)
+where I can contribute! <br> Hobbies: 'chess ♟️ , manga 🥷, videogames 🎮',  learning  <br> English: C1, still improving my eng skills🎵<br> Contact: lorenitaa889@gmail.com <br> I'm currently learning: Java & Amazon Web Services :)
 
 
 #### 🌐 Socials:
